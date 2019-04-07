@@ -1,6 +1,6 @@
 {
   "name": "zotero-creator-metaphone",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Export Double-Metaphone for creator names",
   "exporter": "Creator Metaphone",
   "author": {
