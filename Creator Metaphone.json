@@ -1,0 +1,15 @@
+{
+  "translatorID": "6320ba9a-d7e6-4b7f-b81e-eb9966a5598e",
+  "label": "Creator Metaphone",
+  "description": "Exports creators to CSV with their double metaphone",
+  "creator": "Emiliano Heyns",
+  "target": "csv",
+  "minVersion": "4.0.27",
+  "maxVersion": "",
+  "translatorType": 2,
+  "browserSupport": "gcsv",
+  "priority": 99,
+  "inRepository": false
+}
+
+

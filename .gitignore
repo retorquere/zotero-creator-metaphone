@@ -1,0 +1,6 @@
+*.sqlite
+build/*.d.ts
+*.csv
+node_modules
+*.xlsx
+*.xlsx#
